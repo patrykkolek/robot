@@ -1,0 +1,7 @@
+rpi 3b
+
+l298n - sterownik silnikow
+
+silniki -
+
+mpu 6050 zyroskop
